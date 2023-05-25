@@ -1,0 +1,16 @@
+Nutzung eines gemeinsamen Repos:
+
+Nomenklatur: Reponame beginnt mit "CFP-", danach einen sprechenden Namen (keine Abkürzung)
+Englisch
+Tickets werden auf Branches umgesetzt, nicht auf dem Masterbranch- Beim commit in Kommentarzeile die entsprechenden Tickets dokumentieren
+welche Repos?
+1 Repo Trainings-Pipeline+ Modell
+1 Repo Rpi-Code- Inferenz im Fahrzeug
+weitere Repos nach Entwicklerbedarf
+Berechtigungen:
+Connected Functions + ART TA+ Admins (Leserechte)
+Versehentliches Löschen durch Admin verhindern
+Offen
+Konvention für Umgang mit CAN-Daten im GitHub→Termin Kevin am 24.1.
+Readme.md- was soll hier rein? Folderstructure, Dependencies, ...
+License, Black Duck, Copyright notice
