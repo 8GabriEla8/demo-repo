@@ -46,4 +46,4 @@ Provide a step-by-step description of how to get the development environment set
 
  ## Helpful Links
  [How to write a good README File](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
- [How to represenzt folder directory tree with links in GitHub README in less than 5 minutes](https://medium.com/@shradhaagarwal01/how-to-represent-folder-directory-tree-with-links-in-github-readme-in-less-than-5-minutes-84230fdcb1)
+ [How to represent folder directory tree with links in GitHub README in less than 5 minutes](https://medium.com/@shradhaagarwal01/how-to-represent-folder-directory-tree-with-links-in-github-readme-in-less-than-5-minutes-84230fdcb1)
