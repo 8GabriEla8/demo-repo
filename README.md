@@ -12,7 +12,18 @@ This is the name of the project. It describes the whole project in one sentence,
  [Link to File](/ContributionGuidelines.md)
  
  ## Folder Structure
- Basic Folder Structure
+ 
+ ### Folder Structure with Extension File Tree to Text Generator
+ [Link to instruction](https://medium.com/@shradhaagarwal01/how-to-represent-folder-directory-tree-with-links-in-github-readme-in-less-than-5-minutes-84230fdcb1)
+ #### demo-repo
+
+* [src/](./demo-repo/src)
+  * [code.md](./demo-repo/src/code.md)
+  * [index.html](./demo-repo/src/index.html)
+* [ContributionGuidelines.md](./demo-repo/ContributionGuidelines.md)
+* [README.md](./demo-repo/README.md)
+
+ ### Basic Folder Structure
  * [src Folder](src): The source code folder! However, in languages that use headers (or if you have a framework for your application) don’t put those files in here.
  * test Folder: Unit tests, integration tests… go here.
  * .config Folder: It should local configuration related to setup on local machine.
