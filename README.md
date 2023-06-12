@@ -17,11 +17,11 @@ This is the name of the project. It describes the whole project in one sentence,
  [Link to instruction](https://medium.com/@shradhaagarwal01/how-to-represent-folder-directory-tree-with-links-in-github-readme-in-less-than-5-minutes-84230fdcb1)
  #### demo-repo
 
-* [src/](./demo-repo/src)
-  * [code.md](./demo-repo/src/code.md)
-  * [index.html](./demo-repo/src/index.html)
-* [ContributionGuidelines.md](./demo-repo/ContributionGuidelines.md)
-* [README.md](./demo-repo/README.md)
+* [src/](./src)
+  * [code.md](./src/code.md)
+  * [index.html](./src/index.html)
+* [ContributionGuidelines.md](./ContributionGuidelines.md)
+* [README.md](./README.md)
 
  ### Basic Folder Structure
  * [src Folder](src): The source code folder! However, in languages that use headers (or if you have a framework for your application) don’t put those files in here.
